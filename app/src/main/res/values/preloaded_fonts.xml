@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abril_fatface</item>
+        <item>@font/acme</item>
+        <item>@font/aladin</item>
+        <item>@font/alice</item>
+        <item>@font/allerta</item>
+        <item>@font/allerta_stencil</item>
+        <item>@font/autour_one</item>
+        <item>@font/baloo</item>
+        <item>@font/bangers</item>
+        <item>@font/francois_one</item>
+        <item>@font/gravitas_one</item>
+        <item>@font/montserrat</item>
+    </array>
+</resources>

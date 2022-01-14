@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "212365512213",
+    "firebase_url": "https://assigment-4aa37-default-rtdb.firebaseio.com",
+    "project_id": "assigment-4aa37",
+    "storage_bucket": "assigment-4aa37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212365512213:android:64fa7e6e4895634296081c",
+        "android_client_info": {
+          "package_name": "com.example.a300assigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212365512213-g6kun4n2hs1uajagbg6vbjn01mukujc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEkL0qoS3exOIFJkcEUd-2xt397servQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212365512213-g6kun4n2hs1uajagbg6vbjn01mukujc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212365512213:android:8dccba27901db47196081c",
+        "android_client_info": {
+          "package_name": "com.example.vt6002cem_assignment2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212365512213-g6kun4n2hs1uajagbg6vbjn01mukujc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEkL0qoS3exOIFJkcEUd-2xt397servQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212365512213-g6kun4n2hs1uajagbg6vbjn01mukujc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212365512213:android:533b56ab196f486896081c",
+        "android_client_info": {
+          "package_name": "com.example.vt6002cem_assignment2_puntungfai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212365512213-g6kun4n2hs1uajagbg6vbjn01mukujc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEkL0qoS3exOIFJkcEUd-2xt397servQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212365512213-g6kun4n2hs1uajagbg6vbjn01mukujc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

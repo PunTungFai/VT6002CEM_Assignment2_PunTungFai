@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">VT6002CEM_Assigment2</string>
+    <string name="eshop">Online-Shop</string>
+    <string name="home">Home</string>
+    <string name="welcome">Welcome</string>
+
+    <string name="NewInformation">New Information</string>
+    <string name="Record">Record</string>
+    <string name="Product">Product</string>
+
+
+    <string name="Login">Login</string>
+    <string name="Logout">Logout</string>
+    <string name="Profile">Profile</string>
+    <string name="Name">Name</string>
+    <string name="New">New</string>
+    <string name="Men">Men</string>
+    <string name="Women">Women</string>
+    <string name="Kid">Kid</string>
+    <string name="Good">Good!</string>
+    <string name="Men_clothes">Men Clothes</string>
+    <string name="Women_clothes">Girl Clothes</string>
+    <string name="Kid_clothes">Kid Clothes</string>
+    <string name="Enter">Enter</string>
+    <string name="Description">Description:</string>
+    <string name="MainProductType">Main Product Type</string>
+    <string name="Material">Material:</string>
+    <string name="Color">Color:</string>
+    <string name="Size">Size:</string>
+    <string name="Quantity">Quantity:</string>
+    <string name="Add">Add</string>
+    <string name="text_sign_up">Sign up</string>
+    <string name="text_forgot_password">Forgot password?</string>
+    <string name="button_sign_in">Sign in</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="text_sign_in_message">Please sign in to account</string>
+    <string name="text_password">Input your email to find the password</string>
+    <string name="button_sign_up">Sign up</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_username">User Name</string>
+    <string name="text_signup_message">Answer your information to set up your account</string>
+    <string name="Shopping_cart">Shopping Cart</string>
+    <string name="ReservedOrder">Confirm Order</string>
+    <string name="OrderDate">Order Date:</string>
+    <string name="Total_amount">Total Amount:</string>
+    <string name="Order_id">Order ID:</string>
+    <string name="Setting">Setting</string>
+    <string name="login">login</string>
+    <string name="product">Product</string>
+    <string name="button_Confirm">Confirm</string>
+
+    <string-array name="item">
+        <item>All</item>
+        <item>Men</item>
+        <item>Women</item>
+        <item>Kid</item>
+        <item>Other</item>
+    </string-array>
+</resources>
